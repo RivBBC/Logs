@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260429-234251-u2ss",
+      "title": "Legion Timebender",
+      "commanders": [
+        "Legion Timebender"
+      ],
+      "dateStart": "2026-04-30T03:42:51.000Z",
+      "dateEnd": "2026-04-30T04:44:05.000Z",
+      "dateLabel": "4/29/2026, 11:42:51 PM - 4/30/2026, 12:44:05 AM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260429-234251-u2ss",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260429-201247-jvln",
       "title": "Dxshka Vol, I Deshka I",
       "commanders": [
