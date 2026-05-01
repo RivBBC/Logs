@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260430-225811-9zq0",
+      "title": "Penguinz Is Chilly",
+      "commanders": [
+        "Penguinz Is Chilly"
+      ],
+      "dateStart": "2026-05-01T02:58:11.000Z",
+      "dateEnd": "2026-05-01T04:51:57.000Z",
+      "dateLabel": "4/30/2026, 10:58:11 PM - 5/1/2026, 12:51:57 AM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260430-225811-9zq0",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 58
+      }
+    },
+    {
       "id": "20260429-234251-u2ss",
       "title": "Legion Timebender",
       "commanders": [
