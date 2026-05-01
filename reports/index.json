@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260501-092508-whrc",
+      "title": "Jerichoya",
+      "commanders": [
+        "Jerichoya"
+      ],
+      "dateStart": "2026-05-01T13:25:08.000Z",
+      "dateEnd": "2026-05-01T14:53:39.000Z",
+      "dateLabel": "5/1/2026, 9:25:08 AM - 5/1/2026, 10:53:39 AM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260501-092508-whrc",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 77
+      }
+    },
+    {
       "id": "20260430-225811-9zq0",
       "title": "Penguinz Is Chilly",
       "commanders": [
