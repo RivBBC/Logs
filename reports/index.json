@@ -1,7 +1,36 @@
 {
   "colorPalette": "electric-blue",
   "glassSurfaces": false,
+  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260504-092435-6ris",
+      "title": "Jerichoya",
+      "commanders": [
+        "Jerichoya"
+      ],
+      "dateStart": "2026-05-04T13:24:35.000Z",
+      "dateEnd": "2026-05-04T14:23:30.000Z",
+      "dateLabel": "5/4/2026, 9:24:35 AM - 5/4/2026, 10:23:30 AM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260504-092435-6ris",
+      "summary": {
+        "borderlandsPct": 0.1,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 51
+      }
+    },
     {
       "id": "20260503-215928-xp1w",
       "title": "B U B B L E C A R",
