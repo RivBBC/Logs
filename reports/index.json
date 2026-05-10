@@ -4,6 +4,31 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260509-201032-6hhh",
+      "title": "Dxshka Vol, I Deshka I, On Desh",
+      "commanders": [
+        "Dxshka Vol",
+        "I Deshka I",
+        "On Desh"
+      ],
+      "dateStart": "2026-05-10T00:10:32.000Z",
+      "dateEnd": "2026-05-10T01:43:55.000Z",
+      "dateLabel": "5/9/2026, 8:10:32 PM - 5/9/2026, 9:43:55 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260509-201032-6hhh",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 19,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 71
+      }
+    },
+    {
       "id": "20260506-213329-3l3o",
       "title": "Vape Onion Star",
       "commanders": [
