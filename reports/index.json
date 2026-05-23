@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260522-220930-ks47",
+      "title": "Vape Onion Star",
+      "commanders": [
+        "Vape Onion Star"
+      ],
+      "dateStart": "2026-05-23T02:09:30.000Z",
+      "dateEnd": "2026-05-23T03:44:55.000Z",
+      "dateLabel": "5/22/2026, 10:09:30 PM - 5/22/2026, 11:44:55 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260522-220930-ks47",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 58
+      }
+    },
+    {
       "id": "20260510-205416-0j4q",
       "title": "Dxshka Vol",
       "commanders": [
