@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260523-213716-tzqq",
+      "title": "B U B B L E C A R, Dxshka Vol",
+      "commanders": [
+        "B U B B L E C A R",
+        "Dxshka Vol"
+      ],
+      "dateStart": "2026-05-24T01:37:16.000Z",
+      "dateEnd": "2026-05-24T03:00:00.000Z",
+      "dateLabel": "5/23/2026, 9:37:16 PM - 5/23/2026, 11:00:00 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260523-213716-tzqq",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 22,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260522-220930-ks47",
       "title": "Vape Onion Star",
       "commanders": [
