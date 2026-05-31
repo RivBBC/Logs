@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260531-180520-bha0",
+      "title": "B U B B L E C A R, Dxshka Vol",
+      "commanders": [
+        "B U B B L E C A R",
+        "Dxshka Vol"
+      ],
+      "dateStart": "2026-05-31T22:05:20.000Z",
+      "dateEnd": "2026-05-31T23:37:27.000Z",
+      "dateLabel": "5/31/2026, 6:05:20 PM - 5/31/2026, 7:37:27 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260531-180520-bha0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 20,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 55
+      }
+    },
+    {
       "id": "20260531-101948-d44h",
       "title": "Grafix Xyfer V",
       "commanders": [
