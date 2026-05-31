@@ -4,6 +4,42 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260530-210833-b9we",
+      "title": "B U B B L E C A R, Bubble Wrap Il, Dxshka Vol, I Deshka I",
+      "commanders": [
+        "B U B B L E C A R",
+        "Bubble Wrap Il",
+        "Dxshka Vol",
+        "I Deshka I"
+      ],
+      "dateStart": "2026-05-31T01:08:33.000Z",
+      "dateEnd": "2026-05-31T02:07:50.000Z",
+      "dateLabel": "5/30/2026, 9:08:33 PM - 5/30/2026, 10:07:50 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260530-210833-b9we",
+      "summary": {
+        "borderlandsPct": 0.96875,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 30,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260523-213716-tzqq",
       "title": "B U B B L E C A R, Dxshka Vol",
       "commanders": [
