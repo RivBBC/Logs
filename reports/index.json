@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260531-101948-d44h",
+      "title": "Grafix Xyfer V",
+      "commanders": [
+        "Grafix Xyfer V"
+      ],
+      "dateStart": "2026-05-31T14:19:48.000Z",
+      "dateEnd": "2026-05-31T15:01:54.000Z",
+      "dateLabel": "5/31/2026, 10:19:48 AM - 5/31/2026, 11:01:54 AM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260531-101948-d44h",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 53
+      }
+    },
+    {
       "id": "20260530-210833-b9we",
       "title": "B U B B L E C A R, Bubble Wrap Il, Dxshka Vol, I Deshka I",
       "commanders": [
