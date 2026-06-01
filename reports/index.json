@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260531-200920-w1dm",
+      "title": "B U B B L E C A R",
+      "commanders": [
+        "B U B B L E C A R"
+      ],
+      "dateStart": "2026-06-01T00:09:20.000Z",
+      "dateEnd": "2026-06-01T01:35:54.000Z",
+      "dateLabel": "5/31/2026, 8:09:20 PM - 5/31/2026, 9:35:54 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260531-200920-w1dm",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260531-180520-bha0",
       "title": "B U B B L E C A R, Dxshka Vol",
       "commanders": [
