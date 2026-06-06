@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260606-124419-2cy6",
+      "title": "On Desh",
+      "commanders": [
+        "On Desh"
+      ],
+      "dateStart": "2026-06-06T16:44:19.000Z",
+      "dateEnd": "2026-06-06T17:40:37.000Z",
+      "dateLabel": "6/6/2026, 12:44:19 PM - 6/6/2026, 1:40:37 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260606-124419-2cy6",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260531-200920-w1dm",
       "title": "B U B B L E C A R",
       "commanders": [
