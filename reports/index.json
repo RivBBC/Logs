@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260606-203843-7yvm",
+      "title": "Dxshka Vol",
+      "commanders": [
+        "Dxshka Vol"
+      ],
+      "dateStart": "2026-06-07T00:38:43.000Z",
+      "dateEnd": "2026-06-07T01:56:49.000Z",
+      "dateLabel": "6/6/2026, 8:38:43 PM - 6/6/2026, 9:56:49 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260606-203843-7yvm",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 21,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260606-125207-ikpc",
       "title": "On Desh",
       "commanders": [
