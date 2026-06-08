@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260608-003435-q63j",
+      "title": "Legion Timebender",
+      "commanders": [
+        "Legion Timebender"
+      ],
+      "dateStart": "2026-06-08T04:34:35.000Z",
+      "dateEnd": "2026-06-08T04:58:11.000Z",
+      "dateLabel": "6/8/2026, 12:34:35 AM - 6/8/2026, 12:58:11 AM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260608-003435-q63j",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260607-221221-4vls",
       "title": "Vape Onion Star",
       "commanders": [
