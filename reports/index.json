@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260607-205733-1npb",
+      "title": "B U B B L E C A R",
+      "commanders": [
+        "B U B B L E C A R"
+      ],
+      "dateStart": "2026-06-08T00:57:33.000Z",
+      "dateEnd": "2026-06-08T02:03:03.000Z",
+      "dateLabel": "6/7/2026, 8:57:33 PM - 6/7/2026, 10:03:03 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260607-205733-1npb",
+      "summary": {
+        "borderlandsPct": 0.3548387096774194,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 11,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260607-203958-48yl",
       "title": "B U B B L E C A R",
       "commanders": [
