@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260613-100501-651a",
+      "title": "Jerichoya",
+      "commanders": [
+        "Jerichoya"
+      ],
+      "dateStart": "2026-06-13T14:05:01.000Z",
+      "dateEnd": "2026-06-13T15:18:37.000Z",
+      "dateLabel": "6/13/2026, 10:05:01 AM - 6/13/2026, 11:18:37 AM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260613-100501-651a",
+      "summary": {
+        "borderlandsPct": 0.15,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260609-205300-06ts",
       "title": "Vape Onion Star",
       "commanders": [
