@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260613-230501-m0pa",
+      "title": "Penguinz Is Chilly",
+      "commanders": [
+        "Penguinz Is Chilly"
+      ],
+      "dateStart": "2026-06-14T03:05:01.000Z",
+      "dateEnd": "2026-06-14T05:01:18.000Z",
+      "dateLabel": "6/13/2026, 11:05:01 PM - 6/14/2026, 1:01:18 AM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260613-230501-m0pa",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260613-220236-ls3k",
       "title": "Vape Onion Star",
       "commanders": [
