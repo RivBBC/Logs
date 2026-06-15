@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260614-201517-37os",
+      "title": "Bubble Wrap Il",
+      "commanders": [
+        "Bubble Wrap Il"
+      ],
+      "dateStart": "2026-06-15T00:15:17.000Z",
+      "dateEnd": "2026-06-15T01:34:48.000Z",
+      "dateLabel": "6/14/2026, 8:15:17 PM - 6/14/2026, 9:34:48 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260614-201517-37os",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 18,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260613-230501-m0pa",
       "title": "Penguinz Is Chilly",
       "commanders": [
