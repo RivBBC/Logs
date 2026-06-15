@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260614-092412-tc5b",
+      "title": "Jerichoya",
+      "commanders": [
+        "Jerichoya"
+      ],
+      "dateStart": "2026-06-14T13:24:12.000Z",
+      "dateEnd": "2026-06-14T14:55:27.000Z",
+      "dateLabel": "6/14/2026, 9:24:12 AM - 6/14/2026, 10:55:27 AM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260614-092412-tc5b",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260614-201517-37os",
       "title": "Bubble Wrap Il",
       "commanders": [
