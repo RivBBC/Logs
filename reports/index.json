@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260615-210328-lghh",
+      "title": "Paralda",
+      "commanders": [
+        "Paralda"
+      ],
+      "dateStart": "2026-06-16T01:03:28.000Z",
+      "dateEnd": "2026-06-16T02:08:22.000Z",
+      "dateLabel": "6/15/2026, 9:03:28 PM - 6/15/2026, 10:08:22 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260615-210328-lghh",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 15,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260614-092412-tc5b",
       "title": "Jerichoya",
       "commanders": [
