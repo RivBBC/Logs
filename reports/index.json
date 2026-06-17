@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260616-205425-i0p8",
+      "title": "Vape Onion Star",
+      "commanders": [
+        "Vape Onion Star"
+      ],
+      "dateStart": "2026-06-17T00:54:25.000Z",
+      "dateEnd": "2026-06-17T01:51:07.000Z",
+      "dateLabel": "6/16/2026, 8:54:25 PM - 6/16/2026, 9:51:07 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260616-205425-i0p8",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 30,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260615-210328-lghh",
       "title": "Paralda",
       "commanders": [
