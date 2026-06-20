@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260620-085627-qddm",
+      "title": "Wîhok",
+      "commanders": [
+        "Wîhok"
+      ],
+      "dateStart": "2026-06-20T12:56:27.000Z",
+      "dateEnd": "2026-06-20T14:14:53.000Z",
+      "dateLabel": "6/20/2026, 8:56:27 AM - 6/20/2026, 10:14:53 AM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260620-085627-qddm",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260619-224617-j79g",
       "title": "Vape Onion Star",
       "commanders": [
