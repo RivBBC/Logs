@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260621-183740-svgz",
+      "title": "Vape Onion Star",
+      "commanders": [
+        "Vape Onion Star"
+      ],
+      "dateStart": "2026-06-21T22:37:40.000Z",
+      "dateEnd": "2026-06-21T23:44:20.000Z",
+      "dateLabel": "6/21/2026, 6:37:40 PM - 6/21/2026, 7:44:20 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260621-183740-svgz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 48,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260621-133814-kfqa",
       "title": "Deshka Il",
       "commanders": [
