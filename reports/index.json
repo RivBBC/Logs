@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260621-133814-kfqa",
+      "title": "Deshka Il",
+      "commanders": [
+        "Deshka Il"
+      ],
+      "dateStart": "2026-06-21T17:38:14.000Z",
+      "dateEnd": "2026-06-21T18:42:11.000Z",
+      "dateLabel": "6/21/2026, 1:38:14 PM - 6/21/2026, 2:42:11 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260621-133814-kfqa",
+      "summary": {
+        "borderlandsPct": 0.7272727272727273,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260621-213652-7wyi",
       "title": "B U B B L E C A R",
       "commanders": [
