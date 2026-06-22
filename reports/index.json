@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260622-092638-4az4",
+      "title": "Yinyiri",
+      "commanders": [
+        "Yinyiri"
+      ],
+      "dateStart": "2026-06-22T13:26:38.000Z",
+      "dateEnd": "2026-06-22T14:25:27.000Z",
+      "dateLabel": "6/22/2026, 9:26:38 AM - 6/22/2026, 10:25:27 AM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260622-092638-4az4",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 61
+      }
+    },
+    {
       "id": "20260621-183740-svgz",
       "title": "Vape Onion Star",
       "commanders": [
