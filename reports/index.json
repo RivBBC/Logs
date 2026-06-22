@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260621-213652-7wyi",
+      "title": "B U B B L E C A R",
+      "commanders": [
+        "B U B B L E C A R"
+      ],
+      "dateStart": "2026-06-22T01:36:52.000Z",
+      "dateEnd": "2026-06-22T02:17:09.000Z",
+      "dateLabel": "6/21/2026, 9:36:52 PM - 6/21/2026, 10:17:09 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260621-213652-7wyi",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 31,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260620-201208-ft0c",
       "title": "Bubble Wrap Il",
       "commanders": [
