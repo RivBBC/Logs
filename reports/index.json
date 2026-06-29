@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260628-232124-oe2c",
+      "title": "Penguinz Is Chilly",
+      "commanders": [
+        "Penguinz Is Chilly"
+      ],
+      "dateStart": "2026-06-29T03:21:24.000Z",
+      "dateEnd": "2026-06-29T04:39:36.000Z",
+      "dateLabel": "6/28/2026, 11:21:24 PM - 6/29/2026, 12:39:36 AM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260628-232124-oe2c",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 26,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260628-212914-nrk7",
       "title": "B U B B L E C A R",
       "commanders": [
