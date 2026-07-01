@@ -4,6 +4,36 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260630-210408-fyll",
+      "title": "On Desh, Troubin My Woody, Vape Onion Star",
+      "commanders": [
+        "On Desh",
+        "Troubin My Woody",
+        "Vape Onion Star"
+      ],
+      "dateStart": "2026-07-01T01:04:08.000Z",
+      "dateEnd": "2026-07-01T02:30:03.000Z",
+      "dateLabel": "6/30/2026, 9:04:08 PM - 6/30/2026, 10:30:03 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260630-210408-fyll",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 14,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260628-002011-ykom",
       "title": "I Deshka I",
       "commanders": [
