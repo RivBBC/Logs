@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260718-215504-5gb3",
+      "title": "B U B B L E C A R",
+      "commanders": [
+        "B U B B L E C A R"
+      ],
+      "dateStart": "2026-07-19T01:55:04.000Z",
+      "dateEnd": "2026-07-19T03:23:02.000Z",
+      "dateLabel": "7/18/2026, 9:55:04 PM - 7/18/2026, 11:23:02 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260718-215504-5gb3",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 26,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 60
+      }
+    },
+    {
       "id": "20260630-210408-fyll",
       "title": "On Desh, Troubin My Woody, Vape Onion Star",
       "commanders": [
