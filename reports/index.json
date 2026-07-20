@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260719-211639-7o8l",
+      "title": "B U B B L E C A R",
+      "commanders": [
+        "B U B B L E C A R"
+      ],
+      "dateStart": "2026-07-20T01:16:39.000Z",
+      "dateEnd": "2026-07-20T02:01:49.000Z",
+      "dateLabel": "7/19/2026, 9:16:39 PM - 7/19/2026, 10:01:49 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260719-211639-7o8l",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 31,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 53
+      }
+    },
+    {
       "id": "20260718-215504-5gb3",
       "title": "B U B B L E C A R",
       "commanders": [
