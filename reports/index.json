@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260720-094714-rbe3",
+      "title": "Wîhok, Yinyiri",
+      "commanders": [
+        "Wîhok",
+        "Yinyiri"
+      ],
+      "dateStart": "2026-07-20T13:47:14.000Z",
+      "dateEnd": "2026-07-20T14:52:25.000Z",
+      "dateLabel": "7/20/2026, 9:47:14 AM - 7/20/2026, 10:52:25 AM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260720-094714-rbe3",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260719-211639-7o8l",
       "title": "B U B B L E C A R",
       "commanders": [
