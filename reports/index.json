@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260720-210422-xfh7",
+      "title": "Paralda",
+      "commanders": [
+        "Paralda"
+      ],
+      "dateStart": "2026-07-21T01:04:22.000Z",
+      "dateEnd": "2026-07-21T02:17:55.000Z",
+      "dateLabel": "7/20/2026, 9:04:22 PM - 7/20/2026, 10:17:55 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260720-210422-xfh7",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 26,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 53
+      }
+    },
+    {
       "id": "20260720-094714-rbe3",
       "title": "Wîhok, Yinyiri",
       "commanders": [
