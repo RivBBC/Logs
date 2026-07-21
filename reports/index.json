@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260721-091454-1duc",
+      "title": "Wîhok",
+      "commanders": [
+        "Wîhok"
+      ],
+      "dateStart": "2026-07-21T13:14:54.000Z",
+      "dateEnd": "2026-07-21T13:43:49.000Z",
+      "dateLabel": "7/21/2026, 9:14:54 AM - 7/21/2026, 9:43:49 AM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260721-091454-1duc",
+      "summary": {
+        "borderlandsPct": 0.1,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260720-210422-xfh7",
       "title": "Paralda",
       "commanders": [
