@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260722-192809-m4g2",
+      "title": "Deshka Il",
+      "commanders": [
+        "Deshka Il"
+      ],
+      "dateStart": "2026-07-22T23:28:09.000Z",
+      "dateEnd": "2026-07-23T00:27:03.000Z",
+      "dateLabel": "7/22/2026, 7:28:09 PM - 7/22/2026, 8:27:03 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260722-192809-m4g2",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 51,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260721-091454-1duc",
       "title": "Wîhok",
       "commanders": [
