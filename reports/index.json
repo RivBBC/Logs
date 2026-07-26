@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260725-194159-d4o2",
+      "title": "B U B B L E C A R, Deshka Il",
+      "commanders": [
+        "B U B B L E C A R",
+        "Deshka Il"
+      ],
+      "dateStart": "2026-07-25T23:41:59.000Z",
+      "dateEnd": "2026-07-26T01:40:24.000Z",
+      "dateLabel": "7/25/2026, 7:41:59 PM - 7/25/2026, 9:40:24 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260725-194159-d4o2",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 14,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260724-221417-kg13",
       "title": "Vape Onion Star",
       "commanders": [
