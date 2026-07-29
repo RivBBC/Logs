@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260728-201538-orkb",
+      "title": "Vape Onion Star",
+      "commanders": [
+        "Vape Onion Star"
+      ],
+      "dateStart": "2026-07-29T00:15:38.000Z",
+      "dateEnd": "2026-07-29T01:34:26.000Z",
+      "dateLabel": "7/28/2026, 8:15:38 PM - 7/28/2026, 9:34:26 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260728-201538-orkb",
+      "summary": {
+        "borderlandsPct": 0.9459459459459459,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 34,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260725-194159-d4o2",
       "title": "B U B B L E C A R, Deshka Il",
       "commanders": [
