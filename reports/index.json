@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260812-085249-3v2f",
+      "title": "Wîhok",
+      "commanders": [
+        "Wîhok"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-12T12:52:49.000Z",
+      "dateEnd": "2026-08-12T14:08:11.000Z",
+      "dateLabel": "8/12/2026, 8:52:49 AM - 8/12/2026, 10:08:11 AM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260812-085249-3v2f",
+      "summary": {
+        "borderlandsPct": 0.6,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260811-205408-8r7d",
       "title": "Modus Gnosis",
       "commanders": [
