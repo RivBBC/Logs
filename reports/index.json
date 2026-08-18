@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260815-210411-lg7q",
+      "title": "B U B B L E C A R",
+      "commanders": [
+        "B U B B L E C A R"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-16T01:04:11.000Z",
+      "dateEnd": "2026-08-16T02:41:27.000Z",
+      "dateLabel": "8/15/2026, 9:04:11 PM - 8/15/2026, 10:41:27 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260815-210411-lg7q",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 57
+      }
+    },
+    {
       "id": "20260818-094506-sxq3",
       "title": "Wihok Kra Dée",
       "commanders": [
