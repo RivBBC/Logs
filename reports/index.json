@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260818-094506-sxq3",
+      "title": "Wihok Kra Dée",
+      "commanders": [
+        "Wihok Kra Dée"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-18T13:45:06.000Z",
+      "dateEnd": "2026-08-18T14:33:43.000Z",
+      "dateLabel": "8/18/2026, 9:45:06 AM - 8/18/2026, 10:33:43 AM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260818-094506-sxq3",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260816-204438-wrce",
       "title": "Vape Onion Star",
       "commanders": [
