@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260819-205132-48dx",
+      "title": "Vape Onion Star",
+      "commanders": [
+        "Vape Onion Star"
+      ],
+      "guild": {
+        "id": "654B05B7-4FF0-E411-AB13-E4115BDFC985",
+        "name": "Jet Fuel Cänt Melt Dank Memes",
+        "tag": "KEK"
+      },
+      "dateStart": "2026-08-20T00:51:32.000Z",
+      "dateEnd": "2026-08-20T01:21:16.007Z",
+      "dateLabel": "8/19/2026, 8:51:32 PM - 8/19/2026, 9:21:16 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260819-205132-48dx",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 27,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260815-210411-lg7q",
       "title": "B U B B L E C A R",
       "commanders": [
