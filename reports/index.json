@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260822-091339-7g2n",
+      "title": "Wîhok, Wihok Kra Dée",
+      "commanders": [
+        "Wîhok",
+        "Wihok Kra Dée"
+      ],
+      "guild": {
+        "id": "F76938FA-EDDF-ED11-81A9-8FB5CFBE7766",
+        "name": "Toit Miekan Siipi Taisteluun",
+        "tag": "Bee"
+      },
+      "dateStart": "2026-08-22T13:13:39.000Z",
+      "dateEnd": "2026-08-22T14:13:02.952Z",
+      "dateLabel": "8/22/2026, 9:13:39 AM - 8/22/2026, 10:13:02 AM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260822-091339-7g2n",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 20,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260819-205132-48dx",
       "title": "Vape Onion Star",
       "commanders": [
