@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260823-092749-w6ad",
+      "title": "Wîhok",
+      "commanders": [
+        "Wîhok"
+      ],
+      "guild": {
+        "id": "F76938FA-EDDF-ED11-81A9-8FB5CFBE7766",
+        "name": "Toit Miekan Siipi Taisteluun",
+        "tag": "Bee"
+      },
+      "dateStart": "2026-08-23T13:27:49.000Z",
+      "dateEnd": "2026-08-23T14:31:38.289Z",
+      "dateLabel": "8/23/2026, 9:27:49 AM - 8/23/2026, 10:31:38 AM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260823-092749-w6ad",
+      "summary": {
+        "borderlandsPct": 0.4444444444444444,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 54
+      }
+    },
+    {
       "id": "20260822-201011-azbi",
       "title": "B U B B L E C A R",
       "commanders": [
