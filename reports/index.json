@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260823-133122-8bcy",
+      "title": "Model Citizen Star, Vape Onion Star",
+      "commanders": [
+        "Model Citizen Star",
+        "Vape Onion Star"
+      ],
+      "guild": {
+        "id": "654B05B7-4FF0-E411-AB13-E4115BDFC985",
+        "name": "Jet Fuel Cänt Melt Dank Memes",
+        "tag": "KEK"
+      },
+      "dateStart": "2026-08-23T17:31:22.000Z",
+      "dateEnd": "2026-08-23T18:33:44.097Z",
+      "dateLabel": "8/23/2026, 1:31:22 PM - 8/23/2026, 2:33:44 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260823-133122-8bcy",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260823-092749-w6ad",
       "title": "Wîhok",
       "commanders": [
