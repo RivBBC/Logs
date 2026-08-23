@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260822-201011-azbi",
+      "title": "B U B B L E C A R",
+      "commanders": [
+        "B U B B L E C A R"
+      ],
+      "guild": {
+        "id": "61DB2596-BB96-F111-BB22-1249AB9AC125",
+        "name": "Eternal Battle Gírlfriends",
+        "tag": "EBGf"
+      },
+      "dateStart": "2026-08-23T00:10:11.000Z",
+      "dateEnd": "2026-08-23T01:12:47.401Z",
+      "dateLabel": "8/22/2026, 8:10:11 PM - 8/22/2026, 9:12:47 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260822-201011-azbi",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 21,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260822-091339-7g2n",
       "title": "Wîhok, Wihok Kra Dée",
       "commanders": [
