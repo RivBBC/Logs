@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260823-212624-esay",
+      "title": "B U B B L E C A R",
+      "commanders": [
+        "B U B B L E C A R"
+      ],
+      "guild": {
+        "id": "61DB2596-BB96-F111-BB22-1249AB9AC125",
+        "name": "Eternal Battle Gírlfriends",
+        "tag": "EBGf"
+      },
+      "dateStart": "2026-08-24T01:26:24.000Z",
+      "dateEnd": "2026-08-24T02:12:59.784Z",
+      "dateLabel": "8/23/2026, 9:26:24 PM - 8/23/2026, 10:12:59 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260823-212624-esay",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 9,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 54
+      }
+    },
+    {
       "id": "20260823-133122-8bcy",
       "title": "Model Citizen Star, Vape Onion Star",
       "commanders": [
