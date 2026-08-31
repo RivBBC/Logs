@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260831-064649-vykp",
+      "title": "Wîhok",
+      "commanders": [
+        "Wîhok"
+      ],
+      "guild": {
+        "id": "F76938FA-EDDF-ED11-81A9-8FB5CFBE7766",
+        "name": "Toit Miekan Siipi Taisteluun",
+        "tag": "Bee"
+      },
+      "dateStart": "2026-08-31T10:46:49.000Z",
+      "dateEnd": "2026-08-31T11:49:00.596Z",
+      "dateLabel": "8/31/2026, 6:46:49 AM - 8/31/2026, 7:49:00 AM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260831-064649-vykp",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 58
+      }
+    },
+    {
       "id": "20260830-205720-tqd9",
       "title": "Super Soaker Star",
       "commanders": [
