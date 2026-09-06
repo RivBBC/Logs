@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260906-085809-qgws",
+      "title": "Hit N N Run",
+      "commanders": [
+        "Hit N N Run"
+      ],
+      "guild": {
+        "id": "61DB2596-BB96-F111-BB22-1249AB9AC125",
+        "name": "Eternal Battle Gírlfriends",
+        "tag": "EBGf"
+      },
+      "dateStart": "2026-09-06T12:58:09.000Z",
+      "dateEnd": "2026-09-06T13:39:20.395Z",
+      "dateLabel": "9/6/2026, 8:58:09 AM - 9/6/2026, 9:39:20 AM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260906-085809-qgws",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 34,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260905-224307-8oqd",
       "title": "Penguinz Is Chilly",
       "commanders": [
