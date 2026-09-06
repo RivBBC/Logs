@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260905-200522-fd24",
+      "title": "B U B B L E C A R",
+      "commanders": [
+        "B U B B L E C A R"
+      ],
+      "guild": {
+        "id": "9436AC63-3DA7-E311-A32A-E4115BDFA895",
+        "name": "Primi Agminis Legio",
+        "tag": "PAL"
+      },
+      "dateStart": "2026-09-06T00:05:22.000Z",
+      "dateEnd": "2026-09-06T02:36:35.081Z",
+      "dateLabel": "9/5/2026, 8:05:22 PM - 9/5/2026, 10:36:35 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260905-200522-fd24",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 26,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 55
+      }
+    },
+    {
       "id": "20260831-210751-p5ab",
       "title": "Paralda",
       "commanders": [
