@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260908-001120-beyw",
+      "title": "Shogun Pengin",
+      "commanders": [
+        "Shogun Pengin"
+      ],
+      "guild": {
+        "id": "D5547AE6-40AB-F111-BB23-1221ED2FB4CF",
+        "name": "Male Pattern Toadness",
+        "tag": "bTd"
+      },
+      "dateStart": "2026-09-08T04:11:20.000Z",
+      "dateEnd": "2026-09-08T04:54:33.418Z",
+      "dateLabel": "9/8/2026, 12:11:20 AM - 9/8/2026, 12:54:33 AM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260908-001120-beyw",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 22,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260906-085809-qgws",
       "title": "Hit N N Run",
       "commanders": [
