@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260908-211337-tfxx",
+      "title": "Mael The Goddess, Super Soaker Star",
+      "commanders": [
+        "Mael The Goddess",
+        "Super Soaker Star"
+      ],
+      "guild": {
+        "id": "654B05B7-4FF0-E411-AB13-E4115BDFC985",
+        "name": "Jet Fuel Cänt Melt Dank Memes",
+        "tag": "KEK"
+      },
+      "dateStart": "2026-09-09T01:13:37.000Z",
+      "dateEnd": "2026-09-09T02:14:25.291Z",
+      "dateLabel": "9/8/2026, 9:13:37 PM - 9/8/2026, 10:14:25 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260908-211337-tfxx",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 33,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260908-001120-beyw",
       "title": "Shogun Pengin",
       "commanders": [
