@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260909-090703-h37t",
+      "title": "Wîhok",
+      "commanders": [
+        "Wîhok"
+      ],
+      "guild": {
+        "id": "F76938FA-EDDF-ED11-81A9-8FB5CFBE7766",
+        "name": "Toit Miekan Siipi Taisteluun",
+        "tag": "Bee"
+      },
+      "dateStart": "2026-09-09T13:07:03.000Z",
+      "dateEnd": "2026-09-09T14:17:52.558Z",
+      "dateLabel": "9/9/2026, 9:07:03 AM - 9/9/2026, 10:17:52 AM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260909-090703-h37t",
+      "summary": {
+        "borderlandsPct": 0.6470588235294118,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260908-211337-tfxx",
       "title": "Mael The Goddess, Super Soaker Star",
       "commanders": [
