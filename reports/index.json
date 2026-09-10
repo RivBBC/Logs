@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260909-201613-f1f3",
+      "title": "Dxshka Vol",
+      "commanders": [
+        "Dxshka Vol"
+      ],
+      "guild": {
+        "id": "9436AC63-3DA7-E311-A32A-E4115BDFA895",
+        "name": "Primi Agminis Legio",
+        "tag": "PAL"
+      },
+      "dateStart": "2026-09-10T00:16:13.000Z",
+      "dateEnd": "2026-09-10T00:57:49.598Z",
+      "dateLabel": "9/9/2026, 8:16:13 PM - 9/9/2026, 8:57:49 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260909-201613-f1f3",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 23,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260909-090703-h37t",
       "title": "Wîhok",
       "commanders": [
