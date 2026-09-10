@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260910-090727-doj6",
+      "title": "Wîhok",
+      "commanders": [
+        "Wîhok"
+      ],
+      "guild": {
+        "id": "F76938FA-EDDF-ED11-81A9-8FB5CFBE7766",
+        "name": "Toit Miekan Siipi Taisteluun",
+        "tag": "Bee"
+      },
+      "dateStart": "2026-09-10T13:07:27.000Z",
+      "dateEnd": "2026-09-10T14:23:24.243Z",
+      "dateLabel": "9/10/2026, 9:07:27 AM - 9/10/2026, 10:23:24 AM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260910-090727-doj6",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260909-201613-f1f3",
       "title": "Dxshka Vol",
       "commanders": [
