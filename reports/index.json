@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260910-201120-rney",
+      "title": "B U B B L E C A R, Bubble Wrap Il",
+      "commanders": [
+        "B U B B L E C A R",
+        "Bubble Wrap Il"
+      ],
+      "guild": {
+        "id": "61DB2596-BB96-F111-BB22-1249AB9AC125",
+        "name": "Eternal Battle Gírlfriends",
+        "tag": "EBGf"
+      },
+      "dateStart": "2026-09-11T00:11:20.000Z",
+      "dateEnd": "2026-09-11T00:51:44.798Z",
+      "dateLabel": "9/10/2026, 8:11:20 PM - 9/10/2026, 8:51:44 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260910-201120-rney",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 25,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260910-090727-doj6",
       "title": "Wîhok",
       "commanders": [
