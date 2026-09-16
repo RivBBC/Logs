@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260915-191820-dz7l",
+      "title": "Super Soaker Star",
+      "commanders": [
+        "Super Soaker Star"
+      ],
+      "guild": {
+        "id": "654B05B7-4FF0-E411-AB13-E4115BDFC985",
+        "name": "Jet Fuel Cänt Melt Dank Memes",
+        "tag": "KEK"
+      },
+      "dateStart": "2026-09-15T23:18:20.000Z",
+      "dateEnd": "2026-09-16T00:20:41.561Z",
+      "dateLabel": "9/15/2026, 7:18:20 PM - 9/15/2026, 8:20:41 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260915-191820-dz7l",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 14,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260910-201120-rney",
       "title": "B U B B L E C A R, Bubble Wrap Il",
       "commanders": [
