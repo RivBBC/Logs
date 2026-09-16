@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260915-220418-rm0v",
+      "title": "Shogun Pengin",
+      "commanders": [
+        "Shogun Pengin"
+      ],
+      "guild": {
+        "id": "D6AF79C5-F339-EC11-81AC-95DFE50946EB",
+        "name": "Quag",
+        "tag": "oo"
+      },
+      "dateStart": "2026-09-16T02:04:18.000Z",
+      "dateEnd": "2026-09-16T02:58:52.519Z",
+      "dateLabel": "9/15/2026, 10:04:18 PM - 9/15/2026, 10:58:52 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260915-220418-rm0v",
+      "summary": {
+        "borderlandsPct": 0.5333333333333333,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260915-211448-dhri",
       "title": "Super Soaker Star",
       "commanders": [
