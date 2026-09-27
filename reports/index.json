@@ -5,6 +5,44 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260926-232814-ftqg",
+      "title": "Penguinz Is Chilly",
+      "commanders": [
+        "Penguinz Is Chilly"
+      ],
+      "guild": {
+        "id": "447313FE-4440-EC11-81AB-8CD3CF4E85AB",
+        "name": "Báttletoads",
+        "tag": "bTd"
+      },
+      "dateStart": "2026-09-27T03:28:14.000Z",
+      "dateEnd": "2026-09-27T04:39:51.679Z",
+      "dateLabel": "9/26/2026, 11:28:14 PM - 9/27/2026, 12:39:51 AM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260926-232814-ftqg",
+      "summary": {
+        "borderlandsPct": 0.6666666666666666,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260926-200629-wm3o",
       "title": "Deshka Vox, Dxshka Vol",
       "commanders": [
