@@ -2,7 +2,42 @@
   "colorPalette": "electric-blue",
   "glassSurfaces": false,
   "glassmorphic": false,
+  "axiDesign": false,
   "entries": [
+    {
+      "id": "20260926-200629-wm3o",
+      "title": "Deshka Vox, Dxshka Vol",
+      "commanders": [
+        "Deshka Vox",
+        "Dxshka Vol"
+      ],
+      "guild": {
+        "id": "61DB2596-BB96-F111-BB22-1249AB9AC125",
+        "name": "Eternal Battle Gírlfriends",
+        "tag": "EBGf"
+      },
+      "dateStart": "2026-09-27T00:06:29.000Z",
+      "dateEnd": "2026-09-27T00:49:44.530Z",
+      "dateLabel": "9/26/2026, 8:06:29 PM - 9/26/2026, 8:49:44 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260926-200629-wm3o",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 47,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 58
+      }
+    },
     {
       "id": "20260922-191844-n7a3",
       "title": "Super Soaker Star",
