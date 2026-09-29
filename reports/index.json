@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260929-103015-pgjb",
+      "title": "Jerichoya",
+      "commanders": [
+        "Jerichoya"
+      ],
+      "guild": {
+        "id": "5D9DFC22-84DB-EF11-81AB-F50023EE1BF3",
+        "name": "Cats Are The Truth",
+        "tag": "CAT"
+      },
+      "dateStart": "2026-09-29T14:30:15.000Z",
+      "dateEnd": "2026-09-29T15:38:02.268Z",
+      "dateLabel": "9/29/2026, 10:30:15 AM - 9/29/2026, 11:38:02 AM",
+      "url": "https://RivBBC.github.io/Logs/?report=20260929-103015-pgjb",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260928-203216-nxpp",
       "title": "Penguinz Is Chilly",
       "commanders": [
