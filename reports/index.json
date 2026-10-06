@@ -1,9 +1,37 @@
 {
   "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
   "glassSurfaces": false,
-  "glassmorphic": false,
-  "axiDesign": false,
   "entries": [
+    {
+      "id": "20261006-093435-px1w",
+      "title": "Wîhok",
+      "commanders": [
+        "Wîhok"
+      ],
+      "guild": {
+        "id": "F76938FA-EDDF-ED11-81A9-8FB5CFBE7766",
+        "name": "Toit Miekan Siipi Taisteluun",
+        "tag": "Bee"
+      },
+      "dateStart": "2026-10-06T13:34:35.000Z",
+      "dateEnd": "2026-10-06T14:32:46.994Z",
+      "dateLabel": "10/6/2026, 9:34:35 AM - 10/6/2026, 10:32:46 AM",
+      "url": "https://RivBBC.github.io/Logs/?report=20261006-093435-px1w",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 50
+      }
+    },
     {
       "id": "20260929-103015-pgjb",
       "title": "Jerichoya",
