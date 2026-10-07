@@ -3,7 +3,45 @@
   "axiTheme": "default",
   "glass": false,
   "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.1"
+  },
   "entries": [
+    {
+      "id": "20261006-203144-cy5t",
+      "title": "Super Soaker Star",
+      "commanders": [
+        "Super Soaker Star"
+      ],
+      "guild": {
+        "id": "654B05B7-4FF0-E411-AB13-E4115BDFC985",
+        "name": "Jet Fuel Cänt Melt Dank Memes",
+        "tag": "KEK"
+      },
+      "dateStart": "2026-10-07T00:31:44.000Z",
+      "dateEnd": "2026-10-07T01:24:47.269Z",
+      "dateLabel": "10/6/2026, 8:31:44 PM - 10/6/2026, 9:24:47 PM",
+      "url": "https://RivBBC.github.io/Logs/?report=20261006-203144-cy5t",
+      "publishedBy": "RivBBC",
+      "summary": {
+        "borderlandsPct": 0.7352941176470589,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 25,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 38
+      }
+    },
     {
       "id": "20261006-093435-px1w",
       "title": "Wîhok",
